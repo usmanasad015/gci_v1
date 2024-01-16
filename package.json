@@ -1,7 +1,7 @@
 {
+  "homepage": "https://usmanasad015.github.io/gci_v1/",
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "/home1",
   "private": true,
   "dependencies": {
     "@ebay/nice-modal-react": "^1.2.10",
