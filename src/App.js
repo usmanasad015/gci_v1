@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import CompleteHome1 from "./components/home/CompleteHome1";
 import CompleteHome2 from "./components/home/CompleteHome2";
 import CompleteHome3 from "./components/home/CompleteHome3";
